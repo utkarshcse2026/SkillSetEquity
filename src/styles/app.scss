@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;500;600;800&family=Roboto:wght@100;300;400;700;900&display=swap');
+
+@import "statics";
+@import "animations";
+@import "header";
+@import "home";
+@import "work";
+@import "timeline";
+@import "services";
+@import "testimonails";
+@import "contact";
+@import "footer";
+@import "mediaquery";
+
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: $text2;
+    text-decoration: none;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    background-color: $color1;
+    overflow-x: hidden;
+}
+
+.disableBtn {
+    color: $color6 !important;
+    background-color: rgb(191, 191, 191) !important;
+    cursor: not-allowed !important;
+  }
