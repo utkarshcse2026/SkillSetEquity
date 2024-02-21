@@ -3,4 +3,7 @@ The website is deploy on firebase hosting
 link - "https://emailpasswordlogin-5e376.web.app/"
 
 # To Start 
-use ```npm start```
+use ```npm start``` command
+
+# Notice
+some components are under uploading phase due to some tech error
