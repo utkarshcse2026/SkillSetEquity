@@ -1,4 +1,4 @@
-The website is deploy on firebase hosting 
+The website is deployed using firebase hosting 
 # Deploy Link
 link - "https://emailpasswordlogin-5e376.web.app/"
 
